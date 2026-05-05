@@ -28,7 +28,9 @@ Restart any active Claude Code session after copying. The skill becomes availabl
 
 ## Skills
 
-*(none yet — coming soon)*
+### [`mom-test-questions`](skills/mom-test-questions)
+
+Apply Rob Fitzpatrick's *Mom Test* principles to sharpen meeting questions. Filters out fluff (generic claims, hypothetical maybes, future promises) and rewrites questions to anchor on real past behavior. Useful for interviews, scouting/recruiting calls, reference checks, user research, sales discovery — any conversation where you need true signal rather than polite agreement.
 
 ## About me
 
